@@ -1,42 +1,43 @@
 # CS499-ePortfolio
 
-Professional Self-Assessment
+**Professional Self-Assessment**
 
-Introduction
+**Introduction**
 Completing the Computer Science program and developing this ePortfolio has provided me with the opportunity to reflect on how much I have grown as a software developer, problem solver, and computing professional. Throughout my coursework, I have developed technical skills in programming, software engineering, databases, data structures, algorithms, testing, and security while also strengthening my communication, collaboration, and analytical thinking abilities. This portfolio represents not only the projects I have completed but also the progression of my knowledge and the refinement of my approach to software development.
 When I first entered the program, I focused primarily on making programs function correctly. As I advanced through the curriculum, I learned that successful software development extends beyond functionality. Professional software must be maintainable, efficient, secure, scalable, and designed with both users and stakeholders in mind. Through coursework, project development, and portfolio enhancements, I learned how to evaluate existing systems, identify weaknesses, and implement meaningful improvements that align with industry standards and best practices.
 This ePortfolio demonstrates my ability to apply computer science concepts in practical environments and showcases the growth I have achieved throughout the program. The artifacts included represent three major areas of computer science: software engineering and design, algorithms and data structures, and databases. Together, these projects highlight my ability to design, improve, and maintain software solutions while applying professional development practices.
 
-Collaboration and Communication
+**Collaboration and Communication**
 One of the most valuable lessons I learned throughout the Computer Science program was the importance of collaboration and communication. Although many assignments were completed individually, classroom discussions, peer feedback, instructor guidance, and project reviews provided opportunities to learn from different perspectives and approaches to problem solving.
 Working alongside classmates allowed me to see how multiple solutions can exist for the same problem. By reviewing the work of others and discussing development strategies, I gained a greater appreciation for writing clear, maintainable code and documenting design decisions. These experiences strengthened my ability to explain technical concepts to different audiences, whether communicating with instructors, classmates, or potential stakeholders.
 The code review process completed during this capstone further reinforced the importance of communication in software development. Conducting a code review required me to analyze existing functionality, identify areas for improvement, and clearly articulate enhancement plans. This experience reflects real-world development environments where software engineers must effectively communicate technical information to team members, managers, and clients.
 
-Software Engineering and Design
+**Software Engineering and Design**
 Throughout the program, I developed a strong understanding of software engineering principles and object-oriented design. Early coursework introduced me to foundational programming concepts, while later courses emphasized software architecture, maintainability, testing, and development best practices.
 The software engineering enhancement included in this portfolio demonstrates my growth in applying object-oriented programming principles such as encapsulation, inheritance, and modular design. Through this work, I learned how thoughtful software design improves maintainability, reduces duplication, and supports future expansion. More importantly, I learned to evaluate existing code critically and redesign systems to better align with professional development standards.
 My coursework also strengthened my understanding of the software development lifecycle, requirements analysis, testing, and documentation. These experiences prepared me to develop software solutions that balance functionality, usability, and long-term maintainability.
 
-Data Structures and Algorithms
+**Data Structures and Algorithms**
 The Computer Science program significantly improved my ability to analyze problems and develop efficient solutions using algorithms and data structures. Courses focused on algorithm design, computational thinking, and optimization taught me how implementation decisions affect performance, scalability, and resource usage.
 The algorithms and data structures enhancement in this portfolio demonstrates my ability to improve system performance through better object management and optimized collision detection techniques. Through this work, I gained practical experience evaluating efficiency trade-offs and applying algorithmic principles in a real-time application.
 Beyond this specific project, coursework involving sorting algorithms, searching techniques, recursion, complexity analysis, and data structure implementation helped me develop a deeper understanding of how software performance can be improved through thoughtful design decisions. These experiences strengthened my problem-solving skills and prepared me to evaluate computing solutions from both functional and performance perspectives.
 
-Databases and Data Management
+**Databases and Data Management**
 Database development became another area of significant growth throughout the program. Working with SQL and NoSQL databases taught me how information is stored, organized, queried, and maintained in modern applications.
 The database enhancement included in this portfolio demonstrates my ability to integrate MongoDB with a Python-based dashboard while improving filtering, validation, error handling, and data visualization. Through this project, I gained experience working with CRUD operations, query optimization, and interactive data-driven applications.
 My database coursework emphasized the importance of data integrity, validation, and efficient query design. These experiences helped me understand how databases support business operations and how proper data management contributes to reliable software systems.
 
-Security Mindset and Professional Growth
+**Security Mindset and Professional Growth**
 One of the most important concepts reinforced throughout the Computer Science program was the importance of developing a security mindset. Security is not a feature that can simply be added at the end of development; it must be considered throughout the design and implementation process.
 Across multiple courses, I learned to identify vulnerabilities, validate user input, improve error handling, and reduce risks associated with poor software design. These concepts influenced each enhancement included in this portfolio. Whether eliminating shared static state, validating database queries, or improving application stability, I consistently focused on reducing potential design flaws and improving reliability.
 The program also taught me that security and maintainability often go hand in hand. Well-designed systems are easier to secure, test, and extend over time. Developing this perspective has strengthened my approach to software engineering and prepared me to build more reliable solutions in professional environments.
-Preparation for Employment
+
+**Preparation for Employment**
 The coursework completed throughout this program has prepared me to enter the computer science field with a strong technical foundation and practical development experience. Through projects involving Java, C++, Python, databases, software testing, system design, and visualization tools, I have developed a diverse skill set that can be applied across multiple areas of software development.
 Perhaps most importantly, the program taught me how to learn independently, adapt to new technologies, and continuously improve my work. Each enhancement included in this portfolio demonstrates my ability to revisit existing code, identify opportunities for improvement, and implement more effective solutions. This process reflects the continuous improvement mindset expected in professional software development environments.
 I have also become more aware of my strengths and areas for growth. My strengths include problem-solving, logical thinking, software design, and system improvement. I enjoy analyzing existing systems and finding ways to make them more efficient, reliable, and maintainable. At the same time, the program helped me identify areas where continued learning will benefit my professional development, including advanced software architecture, cloud technologies, and cybersecurity.
 
-Portfolio Overview
+**Portfolio Overview**
 The artifacts included in this ePortfolio represent the progression of my skills across multiple areas of computer science.
 The Software Engineering artifact demonstrates my understanding of object-oriented programming principles and software design through the enhancement of a Java-based pet boarding system. Improvements included implementing inheritance, strengthening encapsulation, removing poor design practices, and adding meaningful business functionality.
 The Algorithms and Data Structures artifact demonstrates my ability to improve efficiency and performance through enhancements made to a C++ brick breaker game. This project highlights optimized object management, improved collision detection algorithms, and better memory management techniques.
